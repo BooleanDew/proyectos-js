@@ -11,7 +11,7 @@ btnCrear.addEventListener("click", () => {
 
 
 for (let i = 0; i < localStorage.length; i++) {
-    console.log(localStorage.key(i))
+    //console.log(localStorage.key(i))
     tasks.innerHTML += `<div class='task'><button onClick="delTask('${localStorage.key(i)}')" class="btnDelete">X</button><div class='title' id='titleTask'><i class="fa-regular fa-star"></i>${localStorage.key(i)}</div><p>${localStorage.getItem(localStorage.key(i))}</p></div>`;
 }
 
