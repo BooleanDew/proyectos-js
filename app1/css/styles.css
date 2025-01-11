@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.new{
+    margin-top: 10px;
+}
+
+.name{
+    width: 90%;
+    height: 30px;
+    padding:5px;
+}
+
+.content{
+    width: 90%;
+    height: 150px;
+    resize: none;
+    margin-top:5px;
+    padding:5px;
+}
+
+.btnCrear{
+    width: 90%;
+    height: 30px;
+}
+
+.tasks{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 15px;
+    width: 500px;
+    margin:auto;
+    flex-wrap: wrap;
+    
+}
+
+.task{
+    width: 240px;
+    height: 200px;
+    margin-top: 10px;
+    padding:5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    &:hover{
+        -webkit-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
+        -moz-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
+        box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
+       transition: box-shadow .1s;
+       cursor: pointer;
+       
+    }
+}
+
+
+
+.task p{
+    text-align: justify;
+    margin: auto;
+    padding: 10px;
+    word-wrap: break-word;
+  
+}
+.fa-star{
+    float: left;
+}
+.title{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.btnDelete{
+    width: 25px;
+    height: 25px;
+    float: right;
+    cursor: pointer;
+    border: none;
+}
