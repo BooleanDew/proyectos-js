@@ -10,7 +10,6 @@ Una aplicación sencilla pero efectiva para gestionar tus tareas diarias.  Crea,
 
 * Creación y edición de tareas.
 * Marcar tareas como completadas.
-* [Añadir otras características aquí, como almacenamiento persistente, etc.]
 
 **Tecnologías:**
 
