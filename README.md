@@ -18,7 +18,7 @@ Una aplicación sencilla pero efectiva para gestionar tus tareas diarias.  Crea,
 * CSS
 * JavaScript
 
-**Enlace:** [Enlace a tu proyecto desplegado, si aplica]
+**Enlace:** https://www.youtube.com/watch?v=DSEHJO8xGXc&t=4480s
 
 ![Captura de pantalla de tu aplicación To Do](ruta/a/tu/imagen.png)  <!-- Reemplaza con la ruta a tu imagen -->
 
