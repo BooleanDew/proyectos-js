@@ -16,7 +16,7 @@ Una aplicación sencilla pero efectiva para gestionar tus tareas diarias.  Crea,
 
 * HTML
 * CSS
-* JavaScript [o la tecnología que usaste]
+* JavaScript
 
 **Enlace:** [Enlace a tu proyecto desplegado, si aplica]
 
